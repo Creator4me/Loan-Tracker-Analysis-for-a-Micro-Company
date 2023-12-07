@@ -18,6 +18,7 @@ A Loan Company, tailored for micro-companies and individuals seeking financial s
 ### Problem Statement
 
 As the appointed analyst responsible for monitoring loan activities, I conducted comprehensive analysis to respond to the following inquiries.
+
 1.What is the total count of loan approvals and rejections across all loan applicants?
 
 2.How does the loan status vary based on the education level of the applicants?
